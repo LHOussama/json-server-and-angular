@@ -1,27 +1,27 @@
-# PreparationControle
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
 
-## Development server
+<h1>Vue</h1>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+  1.Login
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+  
+  <img width="730" alt="image" src="https://github.com/LHOussama/json-server-and-angular/assets/160369206/611a491c-c7f8-48cf-85d5-a1041ea8ac0e">
 
-## Build
+  
+  2.Products
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+  
+  <img width="959" alt="image" src="https://github.com/LHOussama/json-server-and-angular/assets/160369206/f846ad47-5481-40cc-a1b7-70ea4e9c2d30">
 
-## Running unit tests
+  
+  3.New Products
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+  <img width="960" alt="image" src="https://github.com/LHOussama/json-server-and-angular/assets/160369206/6e035496-5150-4977-b256-e7931c5b2bd9">
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+  4.Edit Product
 
-## Further help
+  <img width="650" alt="image" src="https://github.com/LHOussama/json-server-and-angular/assets/160369206/d836d4a4-c7ae-4a1e-bd01-bee4e014e250">
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
